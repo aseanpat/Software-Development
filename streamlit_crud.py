@@ -56,7 +56,7 @@ def delete_record(record_id):
     conn.close()
 
 def main():
-    st.title("SQL CRUD Application")
+    st.title("SQL CRUD Application - Patrick Salamera")
     st.sidebar.title("Navigation")
     
     # Initialize database
